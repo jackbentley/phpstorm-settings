@@ -1,0 +1,9 @@
+<templateSet group="PHP">
+  <template name="pubc" value="public const $END$" description="public const" toReformat="true" toShortenFQNames="true">
+    <context>
+      <option name="PHP Class Member" value="true" />
+      <option name="PHP Interface Member" value="true" />
+      <option name="PHP Trait Member" value="true" />
+    </context>
+  </template>
+</templateSet>

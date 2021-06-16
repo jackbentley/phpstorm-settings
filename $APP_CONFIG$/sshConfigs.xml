@@ -1,0 +1,8 @@
+<application>
+  <component name="SshConfigs">
+    <configs>
+      <sshConfig authType="PASSWORD" host="jadu.local" id="06d754c6-f5a3-43da-8e33-e16a05c6153e" port="22" customName="vagrant" nameFormat="CUSTOM" username="root" />
+      <sshConfig authType="PASSWORD" host="jadu.local" id="50cfb12b-2651-4702-a476-2a83b32c02bc" port="22" customName="vagrant" nameFormat="CUSTOM" username="root" />
+    </configs>
+  </component>
+</application>

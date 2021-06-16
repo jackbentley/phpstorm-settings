@@ -1,0 +1,29 @@
+<application>
+  <component name="FileTypeManager" version="18">
+    <extensionMap>
+      <mapping pattern=".twig_cs" type="PHP" />
+      <mapping pattern=".php_cs" type="PHP" />
+      <mapping pattern="vagrant" type="PLAIN_TEXT" />
+      <mapping pattern="inventories/vagrant" type="PLAIN_TEXT" />
+      <mapping pattern="TemplateFileAnalyzer" type="PLAIN_TEXT" />
+      <mapping pattern=".env" type="PLAIN_TEXT" />
+      <mapping pattern="a" type="PLAIN_TEXT" />
+      <mapping ext="cache" type="PLAIN_TEXT" />
+      <mapping ext="rb" type="PLAIN_TEXT" />
+      <mapping ext="hml" type="PLAIN_TEXT" />
+      <mapping ext="dist" type="PLAIN_TEXT" />
+      <mapping ext="dat" type="PLAIN_TEXT" />
+      <mapping ext="j2" type="Twig" />
+      <mapping pattern="*.neon.dist" type="YAML" />
+      <mapping pattern="*.yml.dist" type="YAML" />
+      <mapping ext="neon" type="YAML" />
+      <removed_mapping ext="ignore" approved="true" type="IgnoreLang file" />
+      <removed_mapping pattern=".gitignore" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping pattern=".php_cs" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping pattern="Vagrantfile" approved="true" type="Perl" />
+      <removed_mapping pattern="phpstan" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping pattern="psalm" approved="true" type="PLAIN_TEXT" />
+      <mapping pattern=".gitignore_global" type="Git file" />
+    </extensionMap>
+  </component>
+</application>
