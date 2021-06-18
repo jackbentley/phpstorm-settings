@@ -1,9 +1,0 @@
-<toolSet name="External Tools">
-  <tool name="Set env to prod" showInMainMenu="true" showInEditor="true" showInProject="true" showInSearchPopup="true" disabled="false" useConsole="true" showConsoleOnStdOut="true" showConsoleOnStdErr="true" synchronizeAfterRun="true" CONNECTION_TYPE="CURRENT_VAGRANT">
-    <exec>
-      <option name="COMMAND" value="sudo" />
-      <option name="PARAMETERS" value="/var/www/jadu/bin/dev prod &amp;&amp; exit" />
-      <option name="WORKING_DIRECTORY" value="/var/www/jadu/" />
-    </exec>
-  </tool>
-</toolSet>
