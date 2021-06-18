@@ -1,0 +1,9 @@
+<application>
+  <component name="SshConfigs">
+    <configs>
+      <sshConfig authType="PASSWORD" connectionConfig="{&quot;serverAliveInterval&quot;:300}" host="trpi.net" id="f2a40405-e8ec-43eb-9b5b-9b7c37c7aa83" port="9022" customName="Dev Server Tom" nameFormat="CUSTOM" username="root">
+        <option name="customName" value="Dev Server Tom" />
+      </sshConfig>
+    </configs>
+  </component>
+</application>

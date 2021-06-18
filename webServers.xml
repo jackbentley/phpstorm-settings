@@ -1,0 +1,22 @@
+<application>
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="f9a9ee05-c525-4d54-9e62-a50ffb839c4c" name="Corp" url="https://billing.gamepanel.io">
+        <fileTransfer host="billing.gamepanel.io" port="21" rootFolder="/public_html/">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="21" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="ea5d4298-5b30-426f-8f98-afd78f177f84" name="Dev Server Tom" url="http://trpi.net:9080/">
+        <fileTransfer host="trpi.net" port="9022" rootFolder="/var/www/html/" accessType="SFTP">
+          <option name="port" value="9022" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="1923b896-81b5-4197-aad8-a8def78c51ac" name="Webdav" url="http://146.185.135.49/sysdev/">
+        <fileTransfer mountedRoot="/Volumes/webdav/sysdev" accessType="MOUNT" />
+      </webServer>
+    </option>
+  </component>
+</application>

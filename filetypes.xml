@@ -1,0 +1,51 @@
+<application>
+  <component name="FileTypeManager" version="18">
+    <ignoreFiles list="*.pyc;*.pyo;*.rbc;*~;.DS_Store;.git;.hg;.svn;CVS;RCS;SCCS;__pycache__;_svn;rcs;" />
+    <extensionMap>
+      <mapping pattern="ansible.cfg" type="Ini" />
+      <mapping ext="apib" type="Markdown" />
+      <mapping ext="pdt" type="PHP" />
+      <mapping pattern="bin" type="PLAIN_TEXT" />
+      <mapping pattern="sudoers" type="PLAIN_TEXT" />
+      <mapping pattern="dev" type="PLAIN_TEXT" />
+      <mapping pattern="craftsrvpasswd" type="PLAIN_TEXT" />
+      <mapping pattern=".htpasswd" type="PLAIN_TEXT" />
+      <mapping pattern="LICENSE" type="PLAIN_TEXT" />
+      <mapping pattern="test" type="PLAIN_TEXT" />
+      <mapping pattern="dependencies" type="PLAIN_TEXT" />
+      <mapping pattern=".htpassword" type="PLAIN_TEXT" />
+      <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
+      <mapping pattern=".htaccess.test" type="PLAIN_TEXT" />
+      <mapping pattern="craftsrv-srcds-logger" type="PLAIN_TEXT" />
+      <mapping pattern="production" type="PLAIN_TEXT" />
+      <mapping pattern="pmmp" type="PLAIN_TEXT" />
+      <mapping pattern=".babel.rc" type="PLAIN_TEXT" />
+      <mapping pattern="dredd" type="PLAIN_TEXT" />
+      <mapping pattern=".htaccess.prod" type="PLAIN_TEXT" />
+      <mapping pattern=".htaccess.dev" type="PLAIN_TEXT" />
+      <mapping pattern="inventories/dev" type="PLAIN_TEXT" />
+      <mapping ext="json1" type="PLAIN_TEXT" />
+      <mapping ext="dev" type="PLAIN_TEXT" />
+      <mapping ext="lock" type="PLAIN_TEXT" />
+      <mapping ext="service" type="PLAIN_TEXT" />
+      <mapping ext="dist" type="PLAIN_TEXT" />
+      <mapping ext="behat" type="PLAIN_TEXT" />
+      <mapping ext="paginator" type="PLAIN_TEXT" />
+      <mapping pattern="Vagrantfile" type="Perl" />
+      <mapping ext="j2" type="Twig" />
+      <mapping pattern="all" type="YAML" />
+      <mapping pattern="vagrant" type="YAML" />
+      <mapping pattern="webserver" type="YAML" />
+      <mapping pattern="testsserver" type="YAML" />
+      <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping ext="dockerfile" approved="true" type="textmate" />
+      <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping ext="makefile" approved="true" type="textmate" />
+      <removed_mapping ext="snakefile" approved="true" type="textmate" />
+      <removed_mapping ext="yaml" approved="true" type="YAML" />
+      <removed_mapping ext="yml" approved="true" type="YAML" />
+      <mapping pattern=".gitignore_global" type="Git file" />
+    </extensionMap>
+  </component>
+</application>
